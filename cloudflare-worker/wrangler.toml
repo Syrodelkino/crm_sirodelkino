@@ -1,0 +1,8 @@
+
+name = "telegram-firestore-worker"
+main = "index.js"
+compatibility_date = "2024-04-22"
+usage_model = "bundled"
+
+[vars]
+FIREBASE_KEY = "AIzaSyAFu0z0-1bA7PxhAWdFmlTrOCOzJmAGxiY"
